@@ -1,4 +1,3 @@
-
 ## Figure
 Latest version  
 ![vNN](versions/drawing.png)
